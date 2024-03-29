@@ -1,4 +1,4 @@
-
+/*
 let item = {
   name : 'phone',
   price:25000,
@@ -23,7 +23,7 @@ console.log(item['price'])
 item['returnable'] = false
 console.log(item)
 
-
+*/
 
 let item = {
   name : 'phone',
@@ -38,4 +38,5 @@ let item = {
 
 }
 item.buy()
-console.log(item)
+console.log(item);
+
